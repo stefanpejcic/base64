@@ -1,6 +1,4 @@
-# base64
-Base64 Encode/Decode
-
+# Base64 Encode/Decode
 
  Base64 encode/decode javascript interface
  
