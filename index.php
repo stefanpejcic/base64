@@ -50,7 +50,7 @@ if (is_file($cat = __DIR__ . DIRECTORY_SEPARATOR . 'octocat.tmpl')) {
                 <div class="form-group">
                     <label for="txt">Copy/Paste your text in the
                         textbox below then click on the Process button:</label>
-                    <how-to-use demo="https://raw.githubusercontent.com/stefanpejcic/base64/master/images/demo.gif">
+                    <how-to-use demo="https://raw.githubusercontent.com/stefanpejcic/base64/master/demo.gif">
                         <ul>
                             <li>Type (or paste) a text in the text area here below and
                                 click on the Process button; the text will be encoded.</li>
