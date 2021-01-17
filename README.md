@@ -2,4 +2,4 @@
 
  Base64 encode/decode javascript interface
  
- live demo: https://tools.pcx3.com/base64.php
+ live demo: https://tools.pcx3.com/base64
